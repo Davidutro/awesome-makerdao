@@ -1076,6 +1076,12 @@ A chronological collection of MakerDAO's major milestones and achievements over 
 * [2017 Product Roadmap](https://web.archive.org/web/20170608025915/https://blog.makerdao.com/2016/12/02/2017-product-roadmap/)
 
   _MakerDAO Blog Post by Andy Milenius \(December 2016\)_
+  
+### 2015
+
+* [Rune's eDollar Reddit Post](https://www.reddit.com/r/ethereum/comments/30f98i/introducing_edollar_the_ultimate_stablecoin_built/)
+
+_r/Ethereum thread by Rune Christensen \(March 2015\)_
 
 ## Media Coverage
 
