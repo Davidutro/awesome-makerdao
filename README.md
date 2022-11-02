@@ -1,6 +1,6 @@
 ---
 Disclaimer: >-
-  Awesome MakerDAO is no longer actively updated. Some Information may be outdated. If you are interested in contributing to this repo, please reach out to (Github) @amy-jung.
+  The official Awesome MakerDAO is no longer actively updated. This is my personal fork with updated information for my own legitimate purpose. - @Davidutro
 ---
 
 # Awesome MakerDAO
